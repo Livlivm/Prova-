@@ -31,7 +31,7 @@ int main() {
                 realizarCompra();
                 break;
             case 0:
-                printf("Saindo do sistema...\n");
+                printf("Sair...\n");
                 break;
             default:
                 printf("Opção inválida!\n");
